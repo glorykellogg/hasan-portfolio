@@ -1,0 +1,34 @@
+---
+title: "Marketing"
+---
+:::: {.grid .distort-grid}
+::: {.card}
+[]{.meta}
+
+### [drake](drake.html)
+
+:::
+
+::: {.card}
+
+### [kanye](kanye.html)
+
+:::
+
+::: {.card}
+### [gymshark](gymshark.html)
+
+:::
+
+::: {.card}
+
+### [youngla](youngla.html)
+:::
+
+::: {.card}
+
+### [gucci](gucci.html)
+
+:::
+
+::::

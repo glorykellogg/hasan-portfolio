@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images/**
+    - "Web Fonts/**"
+    - theme.js
+    - .nojekyll
+
+website:
+  title: "Hasan Portfolio"
+  site-url: "https://glorykellogg.github.io/hasan-portfolio/"
+  search: false
+  navbar: false
+
+format:
+  html:
+    theme: none
+    css: styles.css
+    include-before-body: header.html
+    include-after-body: footer.html
+    page-layout: full
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    lang: en

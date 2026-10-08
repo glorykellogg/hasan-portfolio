@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+::: brief
+
+CV forthcoming.
+
+:::

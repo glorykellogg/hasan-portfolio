@@ -1,0 +1,28 @@
+---
+title: "Shop"
+---
+
+[Explore Redbubble ↗](https://www.redbubble.com/){target="_blank" rel="noopener"}
+
+
+::::::: {.grid .distort-grid}
+::: {.section .card}
+## phone cases
+:::
+
+::: {.section .card}
+## t-shirts
+:::
+
+::: {.section .card}
+## hoodies
+:::
+
+::: {.section .card}
+## tote bags
+:::
+
+::: {.section .card}
+## stickers
+:::
+:::::::

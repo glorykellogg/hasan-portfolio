@@ -1,0 +1,5 @@
+/* Homepage-specific layout. Splash sizing is shared in styles.css. */
+body { min-height: 100vh; min-height: 100svh; }
+#title-block-header, .quarto-title-block, footer { display: none !important; }
+#quarto-content { display: block !important; width: 100%; max-width: none; }
+main.content { display: block !important; }
